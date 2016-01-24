@@ -1,4 +1,5 @@
-//////////////////////////////////nControl LICENSE START////////////////////////////////// ////////////Copyright Nemi Consultancy Services. All rights reserved./////////////////////
+//////////////////////////////////nControl LICENSE START////////////////////////////////// 
+////////////Copyright Nemi Consultancy Services. All rights reserved./////////////////////
 
 Copying, distributing, redistributing code or any part of this application without prior written consent from Nemi is prohibited.
 

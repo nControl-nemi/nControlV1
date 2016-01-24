@@ -1,4 +1,4 @@
-# nControlV1nControl
+# nControl
 Simplified Billing
 
 A solution engineered for the retail, F&B (Foods and Beverages), Restaurants, Pubs, Bars, Cafes, etc.
